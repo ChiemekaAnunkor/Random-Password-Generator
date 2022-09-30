@@ -31,5 +31,9 @@ THEN the password is either displayed in an alert or written to the page
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
-<img width="727" alt="image" src="https://user-images.githubusercontent.com/63639477/193176828-be3df6d3-4772-4520-8e91-6b62ebb65a91.png">
+https://www.awesomescreenshot.com/video/11413745?key=ef68268370b3dece92dfbef7a7b709b0
+
+
+https://user-images.githubusercontent.com/63639477/193177702-d779ce3a-d584-46b7-bc6e-916585795b7e.mp4
+
 
